@@ -1,3 +1,12 @@
+> **下载说明**
+> 优先推荐从百度网盘下载（含完整 release 文件，可用提取码获取），无需访问 GitHub：
+> **百度网盘**：https://pan.baidu.com/s/1Gtgj--K21f5ytmfMHYtmew?pwd=1np8
+>
+> **夸克网盘**：https://pan.quark.cn/s/2e2d065ffcc9
+>
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/better-genshin-impact/releases) 下载。
+
+
 <div align="center">
   <h1 align="center">
     <a href="https://www.bettergi.com/"><img src="https://img.alicdn.com/imgextra/i4/2042484851/O1CN016PuRSW1lhoOl4tcHS_!!2042484851.png" width="190"></a>
